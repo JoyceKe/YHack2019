@@ -1,0 +1,2 @@
+"In those days, you went through 8 weeks (!!!!) of paid training at the Round Rock, TX campus before you talked to customers on the phone. Techs had ownership of calls, and 'fdisk and format' was the absolute last ditch to fix a problem. Times have changed quite a bit.
+"On the other hand, in fairness to Dell, probably 30% of their calls involve people getting viruses and spyware off of their machines, and that is not Dell's fault. There are new and bewildering ways to corrupt a machine's configuration to the point to where a reformat is probably a pretty appealing option."
